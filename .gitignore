@@ -1,0 +1,11 @@
+﻿node_modules/
+.wrangler/
+.dev.vars*
+.env*
+!.env.example
+dist/
+playwright-report/
+test-results/
+.local/
+*.log
+docs/evidencias/carga-*.json

@@ -1,0 +1,2 @@
+/* System fonts keep the interface fast and independent of third-party font services. */
+html{scroll-behavior:smooth}::selection{background:#d6e8a8;color:#123c33}
